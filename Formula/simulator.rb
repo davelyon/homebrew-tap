@@ -1,7 +1,7 @@
 class Simulator < Formula
   homepage "https://github.com/davelyon/simulator"
   url "https://github.com/davelyon/simulator/archive/v0.1.1.tar.gz"
-  sha256 "8132b847309f287f285527840b0dff3844f11f7bbd8b8c0f23b03c5ada276659"
+  sha256 "df64f0b49ee8a766a9c42a65878d2b7a12fc618e595437e595cc5e1b1623e3f2"
 
 
   def install
